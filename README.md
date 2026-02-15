@@ -23,4 +23,6 @@ The contract was deployed and tested using Remix IDE.
 
 ## 👨‍💻 Author
 Ankur Aryan  
-B.Tech – Manipal University Jaipur
+B.Tech – Manipal University Jaipur 
+
+Final update before presentation submission.
